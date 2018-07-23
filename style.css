@@ -65,6 +65,7 @@ article {
 }
 article h2 {
     font-weight: normal;
+    font-size: 30px;
     margin-bottom: 12px;
 }
 article p {
@@ -104,7 +105,7 @@ aside > div {
 #logo {
     display: inline-block;
     vertical-align: middle;
-    font-size: 30px;
+    font-size: 50px;
     margin-right: 75px;
     margin-bottom: 30px;
     color: #FFF;
